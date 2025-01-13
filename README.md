@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chatbot UI
 
 The open-source AI chat app for everyone.
@@ -290,3 +291,7 @@ We are working on a guide for contributing.
 ## Contact
 
 Message Mckay on [Twitter/X](https://twitter.com/mckaywrigley)
+=======
+# Lofty-Ai-Chatbot-Basic
+basic ai chatpot 
+>>>>>>> 89a7cf1a462e2ce14323a0f99acd6379a65546a7
